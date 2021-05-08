@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Retro aesthetic</title>
+    <link>https://Retro-Aesthetic.github.io/</link>
+    <description>Recent content on Retro aesthetic</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 05 Mar 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://Retro-Aesthetic.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>https://Retro-Aesthetic.github.io/archives/</link>
+      <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://Retro-Aesthetic.github.io/archives/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hackerman</title>
+      <link>https://Retro-Aesthetic.github.io/post/hackerman/</link>
+      <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://Retro-Aesthetic.github.io/post/hackerman/</guid>
+      <description>   </description>
+    </item>
+    
+    <item>
+      <title>Retro Gaming</title>
+      <link>https://Retro-Aesthetic.github.io/post/retrogaming/</link>
+      <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://Retro-Aesthetic.github.io/post/retrogaming/</guid>
+      <description>   </description>
+    </item>
+    
+    <item>
+      <title>Vaporwave</title>
+      <link>https://Retro-Aesthetic.github.io/post/vaporwave/</link>
+      <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://Retro-Aesthetic.github.io/post/vaporwave/</guid>
+      <description>   </description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://Retro-Aesthetic.github.io/about/</link>
+      <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://Retro-Aesthetic.github.io/about/</guid>
+      <description>Retro aesthetic was born as a website just for fun.
+The site is completely open source and hosted via GitHub. If you are a geek and want to take a look you can do it here:
+ https://github.com/Retro-Aesthetic  Greetings from the past.</description>
+    </item>
+    
+  </channel>
+</rss>
